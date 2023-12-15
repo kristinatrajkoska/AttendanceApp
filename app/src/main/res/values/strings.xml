@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AttendanceApp</string>
+    <string name="login">Login</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="register">register</string>
+    <string name="Register">Register</string>
+    <string name="click_to_login">Click to Login</string>
+    <string name="click_to_register">Click to register</string>
+    <string name="logout">logout</string>
+    <string name="open">Open</string>
+    <string name="welcome">Welcome!</string>
+    <string name="professors">PROFESSORS</string>
+    <string name="students">STUDENTS</string>
+</resources>
